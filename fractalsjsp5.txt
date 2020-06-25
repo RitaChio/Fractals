@@ -28,4 +28,3 @@ function branch(len) {
    }
   
 }
-#copyrights to Rita Chiorescu
